@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 word = "Holberton"
-print(f"First 3 letters: {Hol}")
-print(f"Last 2 letters: {on}")
-print(f"Middle word: {olberto}")
-print(f"word: {Holberton}")
+print(f"First 3 letters: {Sch}")
+print(f"Last 2 letters: {ol}")
+print(f"Middle word: {choo}")
