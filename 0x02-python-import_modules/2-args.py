@@ -14,6 +14,6 @@
         l = 0
         for arg in sys.argv:
             if l != 0:
-                print("{}: {}".format(i, arg))
+                print("{} : {}".format(i, arg))
             l += 1
 
