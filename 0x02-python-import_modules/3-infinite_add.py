@@ -1,8 +1,12 @@
 #!/usr/bin/python3
+
+
+from sys import argv as args
+
+
+def infinite_add():
+    return sum([int(x) for x in args[1:]])
+
+
 if __name__ == "__main__":
-    import sys
-    result = 0
-    for arg in sys.argv:
-        if arg != sys.argv[0]:
-            result += int(arg)
-    print(result)
+    print(infinite_add())
