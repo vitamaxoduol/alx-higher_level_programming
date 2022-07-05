@@ -24,5 +24,3 @@ class BaseGeometry:
 
 
 base = BaseGeometry()
-# print(base.area(12))
-# base.integer_validator()
