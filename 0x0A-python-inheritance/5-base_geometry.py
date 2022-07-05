@@ -4,4 +4,4 @@
 
 class BaseGeometry:
     """does nothing"""
-    pas
+    pass
